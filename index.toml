@@ -1,0 +1,317 @@
+hash-format = "sha256"
+
+[[files]]
+file = "AmbientSounds_FORGE_v5.3.9_mc1.18.2.jar"
+hash = "9a6a03063fa543e18cca3cef05f672f477516b3413c58e3d4b14123515f013f4"
+
+[[files]]
+file = "Aquaculture-1.18.2-2.3.12.jar"
+hash = "b40aa5ad7895b9d463f6dbad0980f7b0c0ecc51fb25bcfca456a35353feb4e21"
+
+[[files]]
+file = "BambooEverything-forge-1.3.8-build.45+mc1.18.2.jar"
+hash = "054777afe218fe6554445b198c09c5f1469567d17892d7c05c1b839f996ef6ee"
+
+[[files]]
+file = "Bookshelf-Forge-1.18.2-13.3.56.jar"
+hash = "f9af6c0177c0de060047a00435ca6f1057f694b3c5e3fe0cd0738aef4146c18f"
+
+[[files]]
+file = "CreativeCore_FORGE_v2.11.27_mc1.18.2.jar"
+hash = "61ee38c59dd71aab64f960309e0328c2f79516fd2cb5d381a9ec7e7b2b6fb750"
+
+[[files]]
+file = "Croptopia-1.18.2-FORGE-2.1.0.jar"
+hash = "832ce5b21a11606bd0d8a27b9950db38e8c541c294f8e6291e36132df07e6d92"
+
+[[files]]
+file = "EnchantmentDescriptions-Forge-1.18.2-10.0.17.jar"
+hash = "05bf23f034bd6da8685e5bfded16e0c96c284b28512162bfa03fe57deb75685b"
+
+[[files]]
+file = "Entity_Collision_FPS_Fix-forge-1.18.2-1.0.0.jar"
+hash = "4ffd05ae2ec725f0ad10fc6c6186619601ecb1664dec49f5f5038ab9a5faf600"
+
+[[files]]
+file = "FallingTree-1.18.2-3.5.5.jar"
+hash = "46da3e92d18bb31bdcb2d13090f965e0e6aacfe9b43112d83656f0d9eb4a1edb"
+
+[[files]]
+file = "FarmersDelight-1.18.2-1.2.3.jar"
+hash = "b192b64908d4fd963151b79329d6f0c5d5d1a1273f7e82849b3c08b720311028"
+
+[[files]]
+file = "FastLeafDecay-28.jar"
+hash = "ddf28b3361c45bf060bab856a68b3520d6a3b6cf700f833cce6adb0c6bd7bdf0"
+
+[[files]]
+file = "FruitTrees-1.18.2-forge-5.0.1.jar"
+hash = "b7ab0e9c18d79f001cbb8c7deb3d08c826b941e71751fcc06d40393cc7cdd93f"
+
+[[files]]
+file = "GeckoLibOculusCompat-Forge-1.0.1.jar"
+hash = "d2047c888aa0ded9ba13a24d3eafd37239e28a9eea0b18d20a3e3e74a3a19250"
+
+[[files]]
+file = "Jade-1.18.2-forge-5.3.2.jar"
+hash = "de002f776a3b5b0716c702233798a5f03867deba598c6b76c6ed77a3ec10bdce"
+
+[[files]]
+file = "JustEnoughProfessions-1.18.2-1.3.0.jar"
+hash = "6433c9d90a2e6e19d9d79e3b80e3e8f9f19cb0fc8bcf547552cd5321e96e2825"
+
+[[files]]
+file = "Kiwi-1.18.2-forge-6.1.4.jar"
+hash = "6032f43f6fc96ec3005e72da055d4804461bc4d244ccc3ad66daed569db2cc2c"
+
+[[files]]
+file = "Oh_The_Biomes_You'll_Go-forge-1.18.2-1.5.1.jar"
+hash = "09530bba0cce33b6b22b0aa3662af954e04f4332d5c80f867e43831623637012"
+
+[[files]]
+file = "Patchouli-1.18.2-71.1.jar"
+hash = "1bcd352f81124b24832b536b62c138663682527886d4aaced595e7baa50e3ebb"
+
+[[files]]
+file = "PickUpNotifier-v3.2.1-1.18.2-Forge.jar"
+hash = "8e3d171e4177103cd4f42a11d9a2abaf6457d66ef52300af75e1929b73e5af00"
+
+[[files]]
+file = "PlayerRevive_FORGE_v2.0.14_mc1.18.2.jar"
+hash = "e061eab7ada49a95db4379f57e1727ad90d175d4b3966632e5ec90b981e17ccb"
+
+[[files]]
+file = "Powah-3.0.8.jar"
+hash = "c1f87f2258dd623badf70390d737bca4b7151fdf76d44538b89bfb768acf0366"
+
+[[files]]
+file = "PrettyPipes-1.12.8.jar"
+hash = "9a644372f128004a575d9af17666b2e8a1a07d45b0d2138c8fb26977faf116f9"
+
+[[files]]
+file = "PuzzlesLib-v3.5.10-1.18.2-Fabric.jar"
+hash = "f9003b61a64fc37f9ab72ae4014be55343d73b16d0543ce5d0ef2c38d0700261"
+
+[[files]]
+file = "TerraBlender-forge-1.18.2-1.2.0.126.jar"
+hash = "77efe21003e4968460652dda1454f4777ca0a5c77fe84d698259cf4472dafa04"
+
+[[files]]
+file = "Tips-Forge-1.18.2-5.0.11.jar"
+hash = "509d82a8a55ee80689cc5df4adc8d670969de0707af17e1e72b71b21b674cc1c"
+
+[[files]]
+file = "WaterStrainer-1.18.2-13.0.0.jar"
+hash = "e20fca640dcc028a39560f6364aa9fa0b172a2e06574a3bed8fb84bc7a234f75"
+
+[[files]]
+file = "Xaeros_Minimap_25.2.10_Forge_1.18.2.jar"
+hash = "66f498bc45c5abad19042155aa9179f8e5411516d1bc0f2a0315d7c70000f31f"
+
+[[files]]
+file = "[1.18.2] SecurityCraft v1.10.1.jar"
+hash = "31e805d074faad1b16bdffd2fe47fb900ae87dc76747686084b6e9e7e8378e15"
+
+[[files]]
+file = "alexsdelight-1.18.2-1.3.3.jar"
+hash = "9656ac014e821f4ec403be92a3fbbdc8d26debadb34f5a388659d89efb0face3"
+
+[[files]]
+file = "alexsmobs-1.18.6.jar"
+hash = "32198d95d5c6caa4346db4f71f6b43a72fb89cd22e1b3df4c745c63e390e4b76"
+
+[[files]]
+file = "appleskin-forge-mc1.18.2-2.5.1.jar"
+hash = "a10e8e746db51b70f4e9f8aa0359ac0663ed2e04d5d30ca54e0d0e01d2c48961"
+
+[[files]]
+file = "aquaculture_delight_1.0.1_forge_1.18.2.jar"
+hash = "d8d1960041c68c34a9ae06a62ec3b97931de286ce28bebbd6de7dc09813e82fb"
+
+[[files]]
+file = "architectury-4.12.94-forge.jar"
+hash = "e5fee3917f1abd665a3a4402358d9e65cd988964c1b099a522baa22056234397"
+
+[[files]]
+file = "artifacts-1.18.2-4.2.4.jar"
+hash = "ee5d12f944e1318ca8f949450b0a41eaf8495a07e500bcdaaaa2c72ea2526d9c"
+
+[[files]]
+file = "balm-3.2.6.jar"
+hash = "778836126627893164a39eca8e4ec4321b9f00d0aeb7cc3fafaac10f1f288eba"
+
+[[files]]
+file = "berry_good-1.18.2-5.0.0.jar"
+hash = "869984f9b2984460da67442a27546e059888885ad8a2455365510715d7fa7999"
+
+[[files]]
+file = "blueprint-1.18.2-5.5.0.jar"
+hash = "872be3ec4986e7e416d3a8820c26302e617101be8bd44f71f6d41943e87a1a5e"
+
+[[files]]
+file = "buildersaddition-1.18.2-20220308a.jar"
+hash = "6524742839c9bed6456504a166b4375a64e9267d2f96e06cf9c64924f40b5eaf"
+
+[[files]]
+file = "caelus-forge-1.18.1-3.0.0.2.jar"
+hash = "41efaa71d1649ac777eac334419fa4f464570ea47ceb9710f9318cf1e9e2836c"
+
+[[files]]
+file = "carryon-1.18.2-1.17.2.15.jar"
+hash = "1134bf092769f4f10a8f981c10ced52eeaf7d84475f9b48d8e644ce7956843f5"
+
+[[files]]
+file = "citadel-1.11.3-1.18.2.jar"
+hash = "4e4ae44dc790473390a14bc8d098f5a3876f236a2af9f12ab6be8cf2bcb72a7c"
+
+[[files]]
+file = "cloth-config-6.5.133-forge.jar"
+hash = "4806e7cff230dc7ccf653be1502a3d8a1fff1f259a07823bfc5ff7a2fbb489dc"
+
+[[files]]
+file = "cofh_core-1.18.2-9.2.3.47.jar"
+hash = "e0208bf4524841e0a28c791f070d5d36dfd3d7e61720385bdd24c098046ed38e"
+
+[[files]]
+file = "comforts-forge-1.18.2-5.0.0.6.jar"
+hash = "10da8248a7e9440a84394a4b78410ec6ab85d66f521cfc3f87849dfada3a65d7"
+
+[[files]]
+file = "corpse-1.18.2-1.0.2.jar"
+hash = "219fa84db4342252a561b49cfdceec3163346272fe2fbef2563b0562ed375878"
+
+[[files]]
+file = "create-1.18.2-0.5.1.i.jar"
+hash = "5311dbc98d734d7cf0f38f3a9a149234136b912228cdf01b746fbe32d41d0fe2"
+
+[[files]]
+file = "create_power_loader-1.5.0-mc1.18.2.jar"
+hash = "8ab5e4736284c69e6adacce10aaf0e8e1e1cd27ecc4b7bc24b8637377b03a464"
+
+[[files]]
+file = "createaddition-1.18.2-1.0.0.jar"
+hash = "359d3811abfcc775822b758a575649dee3c14660dab03f16ce1235687d2b330f"
+
+[[files]]
+file = "curios-forge-1.18.2-5.0.9.2.jar"
+hash = "327b6a611cdd10be9d789e082cb7c91ef8afa822dcb3daf112aee71012fdfd13"
+
+[[files]]
+file = "curiouselytra-forge-1.18.2-5.0.2.0.jar"
+hash = "2c0e1be19ad6d960c9a9a84bd811fae1de4b6d846890d243903d99109d8fcc93"
+
+[[files]]
+file = "ecologics-forge-1.18.2-1.7.11.jar"
+hash = "d577501f9a80c3ce7267071976b49cc12af6a4eb4b2f27a4496ea6db258e8595"
+
+[[files]]
+file = "elevatorid-1.18.2-1.8.4.jar"
+hash = "1798ba3fd9082e5436b3d429f5c81393a9aed2042a5e1ab8ad0c6895d283ac8f"
+
+[[files]]
+file = "expandability-6.0.0.jar"
+hash = "641ff7f67c2f2beded4850cb75a2ea9a04351e0507d526c4611753512ff5702a"
+
+[[files]]
+file = "flywheel-forge-1.18.2-0.6.8.a.jar"
+hash = "dbda3a1bdbaf173c620179858266884e67772d3828f5a7e04bb1d4c409269081"
+
+[[files]]
+file = "geckolib-forge-1.18-3.0.57.jar"
+hash = "b6d0954f7b777b43e72f202116c8ccbb1e37757a1142759303ab636a9077b8ba"
+
+[[files]]
+file = "goblintraders-1.8.0-1.18.2.jar"
+hash = "a34fa4e297052596d1d301b5e8ed3f67fa2773538430ea8dd209b38f5e0aa3d1"
+
+[[files]]
+file = "inventoryhud.forge.1.18.2-3.4.26.jar"
+hash = "ea3a284c11e565011b6facff72b99e7dd46f377e04a15999bb5b13f0d5757f8f"
+
+[[files]]
+file = "inventorysorter-1.18.2-19.0.4.jar"
+hash = "63699e7fb6d789bef3e3fff7ee52c52305b94d3f8f82fdd9ef802b576ef8459b"
+
+[[files]]
+file = "jei-1.18.2-forge-10.2.1.1009.jar"
+hash = "7defca594a436a0333b1f2b86c27b897e782939488be1aef801145c21af911c9"
+
+[[files]]
+file = "jeiintegration_1.18.2-9.0.0.37.jar"
+hash = "6be7d6add7742ec0bc470f2e6cb33a5c3e86893baa2f2df744011a6e5b014764"
+
+[[files]]
+file = "mcw-bridges-3.1.0-mc1.18.2forge.jar"
+hash = "0bf47452a96214ac3e20339a485750140462ccb04ffb33bc5c2e2e0e03aa1db8"
+
+[[files]]
+file = "mcw-doors-1.1.2-mc1.18.2forge.jar"
+hash = "5c035cdef916f6d1601d8034ba7e15ace792cb6a01963439ca9b306aae9d5dca"
+
+[[files]]
+file = "mcw-lights-1.1.5-mc1.18.2forge.jar"
+hash = "9d5856fbc66bd35eb029d9ae83e5e2745d681fc947fcb587d4e8a52031c5202c"
+
+[[files]]
+file = "mcw-mcwfences-1.2.1-mc1.18.2forge.jar"
+hash = "ca110e40629e3118afab7c3d6b42058b7666f05a4f64e650ce12d829c4be1265"
+
+[[files]]
+file = "mcw-mcwwindows-2.4.2-mc1.18.2forge.jar"
+hash = "8a90332dd1a1802318796e49a5db97b660f45d818a20ba41d379a24350511348"
+
+[[files]]
+file = "mcw-roofs-2.3.2-mc1.18.2forge.jar"
+hash = "deba3388858ec28c2ddaee6c47c1453fd3ac32ef5b26a30c34fc560aaac539df"
+
+[[files]]
+file = "mcw-trapdoors-1.1.5-mc1.18.2forge.jar"
+hash = "8169f2e8849f7bd28ffb7da622ef84a52415d5680034c572bd0d5673473d9250"
+
+[[files]]
+file = "neapolitan-1.18.2-3.0.0.jar"
+hash = "2d16392d0e31672e2747eb589d174e837276711a5840f721ff063e2ab63da453"
+
+[[files]]
+file = "oculus-mc1.18.2-1.6.4.jar"
+hash = "7731a22424f21f2637a6ad565c12d9b063bbefc4d516a292cb80d9e0ac9798ba"
+
+[[files]]
+file = "rubidium-0.5.6.jar"
+hash = "116d428573d4748beba9e1b998cdd1cfcac91636b16ffbc1c98a8b38f1059b23"
+
+[[files]]
+file = "sophisticatedbackpacks-1.18.2-3.20.3.1063.jar"
+hash = "5b5b0c67f301b385e074ab6900930f4f6c3c3e0355c8611cd378bf27c023948d"
+
+[[files]]
+file = "sophisticatedcore-1.18.2-0.6.4.604.jar"
+hash = "25a32678b13b06c1b1aa0ed9e9e244eb1b33d5095989758684e51dc014125627"
+
+[[files]]
+file = "thermal_foundation-1.18.2-9.2.2.58.jar"
+hash = "2ebb58af57b0e64482b7809cf7f4c19c5725dc671317893302694660110def8f"
+
+[[files]]
+file = "trashslot-forge-1.18.2-11.0.3.jar"
+hash = "268a9ca16194bf8d3b3043b74ec420b14758e15ef6bc28f3dab58bd4d8f659e2"
+
+[[files]]
+file = "upgradedcore-1.18.2-3.3.0.0-release.jar"
+hash = "1b3b8164796ef2952666d1ac38f53edcbca502b3f61fa86eb4a9c7bf4771a4b7"
+
+[[files]]
+file = "upgradednetherite-1.18.2-4.3.0.1-release.jar"
+hash = "029b7496e373d23d2f063042786e27fa3d40250365ce52577af600d431b3333c"
+
+[[files]]
+file = "walljump-forge-1.18.1-1.3.7.jar"
+hash = "d2ac69d29762b0791bb87f9dd2f26641406672922c52f7bb52e2bde77b4da845"
+
+[[files]]
+file = "waymaker-1.18-1.1.jar"
+hash = "4f447010e198e1b03b2792e6beb67516fd291e7af9a5ca01265b101b0f08e7eb"
+
+[[files]]
+file = "waystones-forge-1.18.2-10.2.2.jar"
+hash = "26d0e83ed96b6146ae3680132cb2ef77eeb7f70c0abe4172a66926dd01429fd4"
