@@ -1,0 +1,13 @@
+name = "Bamboo Everything"
+filename = "BambooEverything-forge-1.3.8-build.45+mc1.18.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "95bf01d3838c39f5550c4efd99ba5737ada7e1bd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4359591
+project-id = 331723

@@ -1,0 +1,13 @@
+name = "AmbientSound6 Sounds Pack"
+filename = "AmbientSounds6R5.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8b0c218b5d03e53ab1037544eae191159db40400"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7022874
+project-id = 1153791

@@ -1,0 +1,13 @@
+name = "Waystone Waypoint Maker"
+filename = "waymaker-1.18-1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1a3caf8b59dbd01556cc2909097606f7f0e2d2cb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3975155
+project-id = 653354

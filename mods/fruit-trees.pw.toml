@@ -1,0 +1,13 @@
+name = "Fruitful Fun 🍊"
+filename = "FruitTrees-1.18.2-forge-5.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3c57b74b9b2408115ce82d7bd16d8c3a41010c6c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3756371
+project-id = 355467
