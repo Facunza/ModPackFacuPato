@@ -16,6 +16,11 @@ hash = "d988799d0503f9e44e7054c55e91fd6ce0ff0dce5302cb4dde1f133819381713"
 metafile = true
 
 [[files]]
+file = "mods/aquaculture-delight.pw.toml"
+hash = "ef5f92b436a93809a71484115bdc6e5bcc36c3c702dd7110a3d93a149a0e64fb"
+metafile = true
+
+[[files]]
 file = "mods/aquaculture.pw.toml"
 hash = "740db250d501ef36bfb039c22ddee10513efdecf6fc6b9253d365947ba8db880"
 metafile = true
@@ -23,11 +28,6 @@ metafile = true
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "bcf941c11374dbc5bbca74d6377a66228e57d3f2addbb14e12211ec380071d22"
-metafile = true
-
-[[files]]
-file = "mods/badpackets.pw.toml"
-hash = "060665ce200da0e1ff92de80bf5e49954ce12956cc179445ae190b3be25bf3d3"
 metafile = true
 
 [[files]]
@@ -321,11 +321,6 @@ hash = "baacf8a30e9bd91a6de6da7563bfdd6a2d2ad82e96ad2b0a4757511037875ee0"
 metafile = true
 
 [[files]]
-file = "mods/securitycraft-wthit-addon.pw.toml"
-hash = "c2adfa2d3a590e31e2ad777c0bc03d2232ab2f7db044b7f53a782ec2359ed8f1"
-metafile = true
-
-[[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
 hash = "bf4ea8d4b775dc96c7bb9d9d3d70f0d79acd50637f543fc846556f0bcc377fb0"
 metafile = true
@@ -388,11 +383,6 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "c1d3eccbdfc1afb42d91b15135f8766c3c1309bd9a230f60f459a4c0cdce04bb"
-metafile = true
-
-[[files]]
-file = "mods/wthit-forge.pw.toml"
-hash = "732e0a3b14e047e65d1c5df70adce125173007db0d4ccc90926febf53d22fc9d"
 metafile = true
 
 [[files]]

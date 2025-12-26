@@ -1,4 +1,4 @@
-name = "SrvFacuPato"
+name = "MPFaPA"
 author = "Facu"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
@@ -6,7 +6,7 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "44a26bdea869f0f0f1e6a3445a8bfed5dca26fd119d7a1a833553a551d1f3056"
+hash = "467e73062832ff61d5ca9c76f4b01ea25bf9f6bed7dccd4fc94ab6420cfe7853"
 
 [versions]
 forge = "40.3.12"
