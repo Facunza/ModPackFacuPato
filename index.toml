@@ -1,11 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "complementary-unbound.pw.toml"
-hash = "006170836f3180d229a6b95e1b33c060d7afcd0755273669faf78e86f50579ed"
-metafile = true
-
-[[files]]
 file = "mods/alexs-delight.pw.toml"
 hash = "dfa0f3d9b6f055a559595d30dae85d14a35550b28c92d92285eea98d83cb7652"
 metafile = true
@@ -21,14 +16,13 @@ hash = "d988799d0503f9e44e7054c55e91fd6ce0ff0dce5302cb4dde1f133819381713"
 metafile = true
 
 [[files]]
-file = "mods/aquaculture-delight.pw.toml"
-hash = "ef5f92b436a93809a71484115bdc6e5bcc36c3c702dd7110a3d93a149a0e64fb"
-metafile = true
-
-[[files]]
 file = "mods/aquaculture.pw.toml"
 hash = "740db250d501ef36bfb039c22ddee10513efdecf6fc6b9253d365947ba8db880"
 metafile = true
+
+[[files]]
+file = "mods/aquaculture_delight_1.0.1_forge_1.18.2.jar"
+hash = "d8d1960041c68c34a9ae06a62ec3b97931de286ce28bebbd6de7dc09813e82fb"
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
@@ -403,4 +397,9 @@ metafile = true
 [[files]]
 file = "resourcepacks/ambience-sounds-pack.pw.toml"
 hash = "a8bb8b0c23fd971421c4488617cca99f35035c26d767d66826b18c102794ce8f"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-unbound.pw.toml"
+hash = "006170836f3180d229a6b95e1b33c060d7afcd0755273669faf78e86f50579ed"
 metafile = true
