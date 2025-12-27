@@ -286,7 +286,7 @@ metafile = true
 
 [[files]]
 file = "mods/aquaculture-delight.pw.toml"
-hash = "4cd24f57fb3c0b72a4cad7ef946f81481a09a84f29fcaac4094a8e9781e7ae7c"
+hash = "ef5f92b436a93809a71484115bdc6e5bcc36c3c702dd7110a3d93a149a0e64fb"
 metafile = true
 
 [[files]]
