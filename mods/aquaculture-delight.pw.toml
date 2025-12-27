@@ -6,6 +6,7 @@ side = "both"
 hash-format = "sha1"
 hash = "0917654d4d6f30e288f7cac90a02a148bb2d6746"
 mode = "metadata:curseforge"
+manual = true
 
 [update]
 [update.curseforge]
