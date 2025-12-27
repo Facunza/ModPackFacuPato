@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "complementary-unbound.pw.toml"
+hash = "006170836f3180d229a6b95e1b33c060d7afcd0755273669faf78e86f50579ed"
+metafile = true
+
+[[files]]
 file = "mods/alexs-delight.pw.toml"
 hash = "dfa0f3d9b6f055a559595d30dae85d14a35550b28c92d92285eea98d83cb7652"
 metafile = true
