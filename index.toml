@@ -175,11 +175,6 @@ hash = "80e1013e0049365892e0c05b6263062ff5d13a2638d4f97129bb2985dbafa424"
 metafile = true
 
 [[files]]
-file = "mods/flywheel.pw.toml"
-hash = "9dcab12dce33ca74011fecb4553a18f4622fd28341140b536f1451574f63308c"
-metafile = true
-
-[[files]]
 file = "mods/fruit-trees.pw.toml"
 hash = "ec8c67c989a7a98a86b8df7581dbb0642152f1478ff956b47de06ef1c490e1e5"
 metafile = true
