@@ -205,11 +205,6 @@ hash = "8870e6276bbb8dcfdc24b4f97ba2a972df0b48b5b514d10c96c913c773f7b9b1"
 metafile = true
 
 [[files]]
-file = "mods/iris-flywheel-compat.pw.toml"
-hash = "8501d1fa55ba09fb97124bec94be30c0be415187cb55d2a7bdbeb4cf4482bb7f"
-metafile = true
-
-[[files]]
 file = "mods/jade.pw.toml"
 hash = "f5e433c9b3a2e6584efcaa5ac7bb478f1e86959f1df8e01979817a1d99ca5424"
 metafile = true
