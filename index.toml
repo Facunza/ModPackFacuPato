@@ -175,8 +175,18 @@ hash = "80e1013e0049365892e0c05b6263062ff5d13a2638d4f97129bb2985dbafa424"
 metafile = true
 
 [[files]]
+file = "mods/flywheel.pw.toml"
+hash = "9dcab12dce33ca74011fecb4553a18f4622fd28341140b536f1451574f63308c"
+metafile = true
+
+[[files]]
 file = "mods/fruit-trees.pw.toml"
 hash = "ec8c67c989a7a98a86b8df7581dbb0642152f1478ff956b47de06ef1c490e1e5"
+metafile = true
+
+[[files]]
+file = "mods/geckoanimfix.pw.toml"
+hash = "499b9dcff2708b6c4152ff49c5f320d87bb803d0b47b4d88778437c48a59d1f5"
 metafile = true
 
 [[files]]
@@ -197,6 +207,11 @@ metafile = true
 [[files]]
 file = "mods/inventory-sorter.pw.toml"
 hash = "8870e6276bbb8dcfdc24b4f97ba2a972df0b48b5b514d10c96c913c773f7b9b1"
+metafile = true
+
+[[files]]
+file = "mods/iris-flywheel-compat.pw.toml"
+hash = "8501d1fa55ba09fb97124bec94be30c0be415187cb55d2a7bdbeb4cf4482bb7f"
 metafile = true
 
 [[files]]
