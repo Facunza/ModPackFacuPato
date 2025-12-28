@@ -395,6 +395,11 @@ hash = "a8bb8b0c23fd971421c4488617cca99f35035c26d767d66826b18c102794ce8f"
 metafile = true
 
 [[files]]
+file = "resourcepacks/fresh-animations.pw.toml"
+hash = "2f22b3ef24cac4bc38598f789a80d7581f2a8804c6d75621f1c6f37d64c4713b"
+metafile = true
+
+[[files]]
 file = "shaderpacks/complementary-unbound.pw.toml"
 hash = "006170836f3180d229a6b95e1b33c060d7afcd0755273669faf78e86f50579ed"
 metafile = true
