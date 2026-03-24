@@ -320,6 +320,11 @@ hash = "baacf8a30e9bd91a6de6da7563bfdd6a2d2ad82e96ad2b0a4757511037875ee0"
 metafile = true
 
 [[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "b8126a72c8007ecf253eaa9d49d00d399a0df55b3bf405570927102bdb26e515"
+metafile = true
+
+[[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
 hash = "bf4ea8d4b775dc96c7bb9d9d3d70f0d79acd50637f543fc846556f0bcc377fb0"
 metafile = true
